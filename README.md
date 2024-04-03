@@ -9,12 +9,12 @@ This Excel project involves creating a comprehensive dashboard for bike sales, u
 * The project utilizes the Bike Buyers 1000 dataset.
 
 ## Steps Performed :
-**1. Data Cleaning:** Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
-**2. Create Working Sheet:** Copy raw data to a working sheet for manipulation, keeping the original data intact.
-**3. Pivot Tables:** Utilize pivot tables to summarize and analyze data for visualization.
-**4. Visualizations:** Build visualizations using recommended charts to represent key insights, such as average income, commute distance, and age brackets.
-**5. Dashboard Creation:** Copy visualizations onto a dashboard sheet for a consolidated view.
-**6. Chart Customization:** Adjust chart titles, axis labels, and formatting for better clarity.
+1. **Data Cleaning:** Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
+2. **Create Working Sheet:** Copy raw data to a working sheet for manipulation, keeping the original data intact.
+3. **Pivot Tables:** Utilize pivot tables to summarize and analyze data for visualization.
+4. **Visualizations:** Build visualizations using recommended charts to represent key insights, such as average income, commute distance, and age brackets.
+5. **Dashboard Creation:** Copy visualizations onto a dashboard sheet for a consolidated view.
+6. **Chart Customization:** Adjust chart titles, axis labels, and formatting for better clarity.
 
 ## Dashboard Insights :
 + **Average Income by Gender and Bike Purchase:** Understand the average income of individuals based on gender and whether they purchased a bike.
